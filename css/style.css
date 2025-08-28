@@ -156,15 +156,15 @@ header img {
   animation: fadeInOut 15s infinite;
 }
 .kvImg:first-of-type {
-  background-image: url(/img/SEKAINOOWARI_art100830.jpg);
+  background-image: url(img/SEKAINOOWARI_art100830.jpg);
   animation-delay: 0s;
 }
 .kvImg:nth-of-type(2) {
-  background-image: url(/img/SNO-thumb.jpg);
+  background-image: url(img/SNO-thumb.jpg);
   animation-delay: 5s;
 }
 .kvImg:last-of-type {
-  background-image: url(/img/A-sha.jpg);
+  background-image: url(img/A-sha.jpg);
   animation-delay: 10s;
 }
 @keyframes fadeInOut {
@@ -390,7 +390,7 @@ footer {
     height: 718px;
   }
   .kvImg:first-of-type {
-    background-image: url(/img/SEKAINOOWARI_art100830.jpg);
+    background-image: url(img/SEKAINOOWARI_art100830.jpg);
   }
   .kvImg:nth-of-type(2) {
     background-image: url(/img/SNO-thumb.jpg);
